@@ -1,0 +1,7 @@
+target
+.classpath
+.eclipse-pmd
+.pmd
+.project
+.ruleset
+.settings
